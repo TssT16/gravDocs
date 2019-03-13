@@ -1,5 +1,5 @@
 ---
-title: 'What ?'
+title: Welcome
 taxonomy:
     category:
         - docs

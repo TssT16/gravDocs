@@ -5,7 +5,8 @@ taxonomy:
         - docs
 ---
 
-###Main working maschin
+###Main working maschin is a Laptop
+HP Envy x360
 
 ###Archlinux Program Installed
 * **fish** maybe instead of bash

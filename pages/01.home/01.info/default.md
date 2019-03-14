@@ -17,3 +17,5 @@ OS: Archlinux
 * **dolphin** as File Manager
 * **Gnome** as Desktop Environment
 * **yay** as Package manager for AUR packages and pacman
+for studium
+* Matlap

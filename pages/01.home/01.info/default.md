@@ -5,6 +5,10 @@ taxonomy:
         - docs
 ---
 
+**Why Archlinux and not Ubuntu or something else?**  
+I want to test it because a lot of YouTubers say's that you have more control over the system and I want to try it out.
+
+---
 ###Working maschins
 #####Main working maschin is a Laptop
 HP Envy x360 Convertible 15  

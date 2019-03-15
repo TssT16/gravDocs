@@ -16,6 +16,6 @@ OS: Archlinux
 * **fish** maybe instead of bash
 * **dolphin** as File Manager
 * **Gnome** as Desktop Environment
-* **yay** as Package manager for AUR packages and pacman
-for studium
+* **yay** as Package manager for AUR packages and pacman  
+for studium  
 * **Matlap** when I need simulink I must also install **libselinux** via yay

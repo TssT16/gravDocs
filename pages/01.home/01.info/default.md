@@ -18,4 +18,4 @@ OS: Archlinux
 * **Gnome** as Desktop Environment
 * **yay** as Package manager for AUR packages and pacman
 for studium
-* Matlap
+* **Matlap** when I need simulink I must also install **libselinux** via yay

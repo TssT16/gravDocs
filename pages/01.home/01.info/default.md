@@ -17,6 +17,7 @@ GPU: ???
 Storage: 3x SSD Raid 0  
 2x HDD Raid 0  
 
+---
 ###Archlinux Program Installed
 * **fish** maybe instead of bash
 * **dolphin** as File Manager

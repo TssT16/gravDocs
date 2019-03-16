@@ -7,4 +7,4 @@ taxonomy:
 visible: true
 ---
 
-![hallo](Screenshot%20from%202019-03-16%2010-34-32.png) integrate cos^2(pi*t) from 0 to 1
+| ![hallo](Screenshot%20from%202019-03-16%2010-34-32.png) | integrate cos^2(pi\*t) from 0 to 1 |

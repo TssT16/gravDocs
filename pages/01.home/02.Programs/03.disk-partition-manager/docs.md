@@ -1,10 +1,9 @@
 ---
-title: 'Disk/Partition Manager'
+title: 'Not in use'
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
-I use **GParted** for partition resize.  
-For Partition backup I use **gnome-disks**  
+???

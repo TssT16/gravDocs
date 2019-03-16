@@ -32,5 +32,6 @@ Monitor flickering when I only use HDMI cable from monitor to graphics card, but
 * Disk/Partition Manager  
  * I use **GParted** for partition resize.  
  * For Partition backup I use **gnome-disks**  
+
 #####for studying  
 * **Matlap** when I need simulink I must also install **libselinux** via yay

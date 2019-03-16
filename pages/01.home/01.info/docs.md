@@ -3,6 +3,7 @@ title: 'Archlinux Setup'
 taxonomy:
     category:
         - docs
+visible: true
 ---
 
 **Why Archlinux and not Ubuntu or something else?**  
@@ -20,6 +21,7 @@ Motherboard: ROG ???
 GPU: ???  
 Storage: 3x SSD Raid 0  
 2x HDD Raid 0  
+Monitor flickering when I only use HDMI cable from monitor to graphics card, but when I use a DVI to HDMI adapter no flickering!  
 
 ---
 ###Archlinux Program Installed

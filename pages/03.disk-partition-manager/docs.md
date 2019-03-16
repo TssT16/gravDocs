@@ -7,4 +7,4 @@ visible: true
 ---
 
 I use **GParted** for partition resize.  
-For Partition backup I use **Disks**  
+For Partition backup I use **gnome-disks**  

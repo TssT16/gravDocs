@@ -31,7 +31,10 @@ Monitor flickering when I only use HDMI cable from monitor to graphics card, but
 * **yay** as Package manager for AUR packages and pacman  
 * Disk/Partition Manager  
  * I use **GParted** for partition resize.  
- * For Partition backup I use **gnome-disks**  
+ * For Partition backup I use **gnome-disks**
 
-#####for studying  
+####for Android
+* **scrcpy** to mirror the android screen to the Desktop
+
+#####for Studying  
 * **Matlap** when I need simulink I must also install **libselinux** via yay

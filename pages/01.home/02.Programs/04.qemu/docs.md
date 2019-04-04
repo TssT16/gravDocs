@@ -1,5 +1,5 @@
 ---
-title: qemu
+title: Qemu
 taxonomy:
     category:
         - docs

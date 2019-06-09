@@ -32,7 +32,7 @@ Monitor flickering when I only use HDMI cable from monitor to graphics card, but
 * Disk/Partition Manager  
  * I use **GParted** for partition resize.  
  * For Partition backup I use **gnome-disks**
-* **convert *.JPG Glyphosat.pdf** to create PDFs from images
+* **convert \*.JPG Glyphosat.pdf** to create PDFs from images
 
 ####for Android
 * **scrcpy** to mirror the android screen to the Desktop
